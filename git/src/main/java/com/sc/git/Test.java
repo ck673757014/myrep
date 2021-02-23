@@ -6,6 +6,6 @@ public class Test {
         System.out.println(a);
         int c=2;
         int d = 111;
-
+        String bb="123";
     }
 }
